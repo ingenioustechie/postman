@@ -1,16 +1,12 @@
 # Postman Chrome Extension Legacy Version
+This repository is a fork from legecy code base. 
 
-This repository contains codebase for Postman Chrome Extension legacy version - `v0.3.0.0` to `v0.8.4.14`. Updates pertaining to newer versions are **not** pushed to this repository.
-
-### If you are looking to report issues pertaining to the [latest Postman App](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop), visit our support repository at [https://github.com/postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-
----
+## Quick links
 
 
 ## About Postman
 
 Postman helps you be more efficient while working with APIs. Postman is a scratch-your-own-itch project. The need for it arose while one of the developers was creating an API for his project. After looking around for a number of tools, nothing felt just right. The primary features added were a history of sent requests and collections.
-A number of other features have been added since the initial release. A small list is below. To see a fancier page and a video tutorial, check out [http://www.getpostman.com/](http://www.getpostman.com).
 
 ## Features
 
@@ -67,3 +63,4 @@ If you are using this legacy version locally, you may submit bugs on GitHub itse
 If JavaScript is disabled for all sites, in order to use the Postman packaged app, you will need to set an exception for it. In chrome settings, go to _Privacy > Content Settings > JavaScript > Manage Exceptions_ and add the following exception `chrome-extensions://<postman_extension_id>/`.
 
 Postman packaged app's' extension ID can be found at `chrome-extensions://`.  Ensure **developer mode** is enabled and look for the ID under `Postman - REST Client`.
+
