@@ -1,22 +1,12 @@
 # Postman Chrome Extension Legacy Version
-
-This repository contains codebase for Postman Chrome Extension legacy version - `v0.0.1` to `v0.9.9`. Updates pertaining to newer versions are **not** pushed to this repository.
-
-### If you are looking to report issues pertaining to [latest Postman App](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop), visit our support repository at [https://github.com/postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+This repository is a fork from legecy code base. 
 
 ## Quick links
 
-- Homepage - http://www.getpostman.com
-- Blog (Tutorials/Updates) - http://blog.getpostman.com
-- Packaged app (v0.9.6) - https://chrome.google.com/webstore/detail/postman-rest-client/fhbjgbiflinjbdggehcddcbncdddomop
-- Jetpacks for Postman - http://blog.getpostman.com/index.php/2014/01/16/ridiculously-easy-api-testing-introducing-jetpacks-for-postman/
-- Documentation - http://www.getpostman.com/docs/
-- Interceptor - https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo
 
 ## About Postman
 
 Postman helps you be more efficient while working with APIs. Postman is a scratch-your-own-itch project. The need for it arose while one of the developers was creating an API for his project. After looking around for a number of tools, nothing felt just right. The primary features added were a history of sent requests and collections.
-A number of other features have been added since the initial release. A small list is below. To see a fancier page and a video tutorial, check out [http://www.getpostman.com/](http://www.getpostman.com).
 
 ## Features
 
@@ -74,4 +64,3 @@ If JavaScript is disabled for all sites, in order to use the Postman packaged ap
 
 Postman packaged app's' extension ID can be found at `chrome-extensions://`.  Ensure **developer mode** is enabled and look for the ID under `Postman - REST Client`.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-43979731-9/postman-chrome-extension-legacy/readme)](https://www.getpostman.com)
